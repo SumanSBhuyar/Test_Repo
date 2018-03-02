@@ -1,1 +1,2 @@
 Testing the git to github thru centos
+im trying to do the pull command in git 
